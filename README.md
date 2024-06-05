@@ -4,7 +4,7 @@
  One liner, a story of a prince, who lost his memory, looks for his memory and his princess.
 
 ## System components of note
-- Unity 3D (C# backend)
+- Unity
 
 ## Stage
 - Create a brief game story
